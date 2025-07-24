@@ -44,4 +44,5 @@ A MySQL-based relational database project designed to manage and streamline the 
 This project showcases skills in designing and implementing normalized relational databases, using SQL for both data definition and manipulation, and presenting meaningful data relationships for a plant nursery system. It can be used as a foundation for inventory management, customer tracking, and operational reporting in plant nursery businesses.
 
 📎 Author
+
 Amna Iftikhar
