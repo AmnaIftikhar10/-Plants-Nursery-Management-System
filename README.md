@@ -26,11 +26,14 @@ A MySQL-based relational database project designed to manage and streamline the 
 
 🖼️ Diagrams
 
+## Diagrams
+
 ### Entity Relationship Diagram (ERD)
-![Entity Relationship Diagram](ERD.png)
+![ERD](ERD.png)
 
 ### Relational Schema
-![Relational Schema](images/Relational_Schema.png)
+![Relational Schema](Relational_Schema.png)
+
 
 ⚙️ Technologies Used
 
