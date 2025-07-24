@@ -32,7 +32,7 @@ A MySQL-based relational database project designed to manage and streamline the 
 ![ERD](ERD.png)
 
 ### Relational Schema
-![Relational Schema](RelationalSchema.png)
+![Relational Schema](Relational_Schema.png)
 
 
 ⚙️ Technologies Used
