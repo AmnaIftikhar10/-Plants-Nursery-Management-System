@@ -1,6 +1,7 @@
 🌿 Plant Nursery Database Management System
 
 📁 Project Overview
+
 A MySQL-based relational database project designed to manage and streamline the operations of a plant nursery. It includes structured data for entities such as Owners, Customers, Plants, Locations, Suppliers, Staff, Fertilizers, Equipments, Payments, and Seasons.
 
 📌 Features
