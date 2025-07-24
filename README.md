@@ -16,7 +16,6 @@ A MySQL-based relational database project designed to manage and streamline the 
 
 • Visual representation through ERD and Relational Schema diagrams
 
-
 🗃️ SQL Files Included
 
 • create_tables.sql – Defines the database schema and constraints
@@ -25,13 +24,13 @@ A MySQL-based relational database project designed to manage and streamline the 
 
 • queries.sql – Executes meaningful queries and joins to demonstrate data retrieval
 
-
 🖼️ Diagrams
 
-• Entity Relationship Diagram (ERD)
+### Entity Relationship Diagram (ERD)
+![Entity Relationship Diagram](ERD.png)
 
-• Relational Schema
-
+### Relational Schema
+![Relational Schema](Relational Schema.png)
 
 ⚙️ Technologies Used
 
@@ -41,7 +40,7 @@ A MySQL-based relational database project designed to manage and streamline the 
 
 • Database Design Techniques
 
-📈 Purpose
+📈 Purpose  
 This project showcases skills in designing and implementing normalized relational databases, using SQL for both data definition and manipulation, and presenting meaningful data relationships for a plant nursery system. It can be used as a foundation for inventory management, customer tracking, and operational reporting in plant nursery businesses.
 
 📎 Author
