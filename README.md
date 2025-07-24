@@ -14,7 +14,9 @@ A MySQL-based relational database project designed to manage and streamline the 
 🗃️ SQL Files Included
 
 • create_tables.sql – Defines the database schema and constraints
+
 • insert_data.sql – Populates the database with sample entries
+
 • queries.sql – Executes meaningful queries and joins to demonstrate data retrieval
 
 🖼️ Diagrams
