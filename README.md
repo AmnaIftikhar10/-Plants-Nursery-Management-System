@@ -30,7 +30,7 @@ A MySQL-based relational database project designed to manage and streamline the 
 ![Entity Relationship Diagram](ERD.png)
 
 ### Relational Schema
-![Relational Schema](Relational Schema.png)
+![Relational Schema](images/Relational_Schema.png)
 
 ⚙️ Technologies Used
 
