@@ -6,10 +6,15 @@ A MySQL-based relational database project designed to manage and streamline the 
 📌 Features
 
 • Creation of relational tables with appropriate primary and foreign key constraints
+
 • Insertion of sample data to simulate real-world operations
+
 • Comprehensive DML queries for data manipulation and insights
+
 • Use of SQL JOIN, UPDATE, SELECT, and other advanced statements
+
 • Visual representation through ERD and Relational Schema diagrams
+
 
 🗃️ SQL Files Included
 
@@ -19,15 +24,20 @@ A MySQL-based relational database project designed to manage and streamline the 
 
 • queries.sql – Executes meaningful queries and joins to demonstrate data retrieval
 
+
 🖼️ Diagrams
 
 • Entity Relationship Diagram (ERD)
+
 • Relational Schema
+
 
 ⚙️ Technologies Used
 
 • MySQL
+
 • SQL (DDL & DML)
+
 • Database Design Techniques
 
 📈 Purpose
